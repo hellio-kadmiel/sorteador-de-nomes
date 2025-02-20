@@ -4,6 +4,6 @@ O Sorteador de Nomes é uma aplicação simples em HTML, CSS e JavaScript que pe
 
 Funcionalidades:
 . Adicionar nomes a uma lista
-.Impedir a adição de nomes repetidos
-.Sortear um nome aleatoriamente
-.Exibir o resultado do sorteio na tela
+. Impedir a adição de nomes repetidos
+. Sortear um nome aleatoriamente
+. Exibir o resultado do sorteio na tela
